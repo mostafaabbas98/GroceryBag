@@ -1,0 +1,9 @@
+.grocery-input {
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+}
